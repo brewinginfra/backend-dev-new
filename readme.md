@@ -1,5 +1,5 @@
 
-# ChainArt API
+# Arbifans
 
 Documentation for handles features in arbiFans
 
